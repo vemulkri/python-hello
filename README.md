@@ -1,3 +1,3 @@
-Build command – Enter pip install -r requirements.txt.
+Build command – pip install -r requirements.txt.
 
-Start command – Enter python server.py.
+Start command – python server.py.
