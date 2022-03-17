@@ -1,3 +1,5 @@
+# https://docs.aws.amazon.com/apprunner/latest/dg/getting-started.html
+
 from wsgiref.simple_server import make_server
 from pyramid.config import Configurator
 from pyramid.response import Response
